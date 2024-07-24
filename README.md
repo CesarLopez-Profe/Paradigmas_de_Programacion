@@ -1,4 +1,4 @@
-# Paradigmas
+# Paradigmas de Programación 
 
 Material de estudio para Paradigmas de programación.
 

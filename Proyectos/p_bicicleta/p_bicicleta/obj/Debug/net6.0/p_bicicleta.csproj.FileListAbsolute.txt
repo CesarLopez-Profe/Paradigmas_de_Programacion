@@ -26,3 +26,4 @@ C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\20
 C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_bicicleta\p_bicicleta\obj\Debug\net6.0\p_bicicleta.pdb
 C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_bicicleta\p_bicicleta\obj\Debug\net6.0\p_bicicleta.genruntimeconfig.cache
 C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_bicicleta\p_bicicleta\obj\Debug\net6.0\ref\p_bicicleta.dll
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_bicicleta\p_bicicleta\obj\Debug\net6.0\p_bicicleta.sourcelink.json
