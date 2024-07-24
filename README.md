@@ -15,12 +15,12 @@ Cabe aclarar que esta tabla resume brevemente el contenido de cada documento, pa
 
 ## Paradigma Orientado a Objetos
   
-  • [Conceptos Básicos de Clases]
+  • [Conceptos Básicos de Clases](Slides/POO/2%20Conceptos%20Básicos%20de%20Clases.pptx)
 
-  • [Accesabilidad, Constructores, Accesores]
+  • [Accesabilidad, Constructores, Accesores](Slides/POO/3%20Accesibilidad%20Constructores%20Accesores%20Instanciación.pptx)
 
-  • [Relaciones entre clases]
+  • [Relaciones entre clases](/Slides/POO/4%20Relaciones%20entre%20clases.pptx)
 
-  • [Herencia]
+  • [Herencia](/Slides/POO/5%20Herencia.pptx)
 
-  • [Polimorfismo]
+  • [Polimorfismo](/Slides/POO/6%20Polimorfismo.pptx)
