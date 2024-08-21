@@ -20,25 +20,32 @@ namespace p_parque.Clases
         internal static uint vlr_entrada = 4000;
         internal static uint vlr_min_carga = 20000;
         internal static uint vlr_punto = 500;
-        private const ushort cant_man_entr_taq = 100;
+        internal static byte cant_taquillas = 3;
+        internal static ushort cant_man_entr_taq = 100;
+        internal static byte ptos_max_atra = 30;
+        internal static byte ptos_min_atra = 5;
+        internal static TimeSpan min_min_atr = new TimeSpan(0,1,0) ;
+        internal static TimeSpan min_max_atr = new TimeSpan(0,5,0);
+
         private const ushort cant_man_parque = 1000;
-        private const byte cant_atracc = 10;
-        private const byte cant_taquillas = 3;
+        private const byte cant_atracc = 5;
+        
 
         public Parque(string nombre, List<Atraccion> l_atracciones)
         {
             this.Nombre = nombre;
             this.L_atracciones = l_atracciones; 
             //la lista de registros vacía
-            l_registros = new List<Registro>();
+            L_registros = new List<Registro>();
 
             //crear la lista de manillas
             l_manillas = Generar_manillas();
             
             //creación de taquillas
+            L_taquillas = new List<Taquilla>();
             for(byte i=1; i<=cant_taquillas; i++)
             {
-                l_taquillas.Add(Crear_taquilla(i));
+                L_taquillas.Add(Crear_taquilla(i));
             }
 
         }
@@ -53,6 +60,10 @@ namespace p_parque.Clases
                         + " atracciones");
             } 
         }
+
+        internal List<Registro> L_registros { get => l_registros; 
+            set => l_registros = value; }
+        internal List<Taquilla> L_taquillas { get => l_taquillas; set => l_taquillas = value; }
 
         private List<Manilla> Generar_manillas()
         {

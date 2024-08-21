@@ -21,9 +21,19 @@ namespace p_parque.Clases
 
         public string Nombre { get => nombre; set => nombre = value; }
         public byte Puntos { get => puntos; set => puntos = value; }
-        public TimeSpan Duracion { get => duracion; set => duracion = value; }
+        public TimeSpan Duracion { get => duracion; 
+            
+            set
+            {
+                if (value >= Parque.min_min_atr && value <= Parque.min_max_atr)
+                    duracion = value;
+                else
+                    throw new Exception("Duración no permitida para las atracciones");
+            }
+        
+        }
 
-        public bool Descontar_puntos(Manilla manilla)
+        public bool Descontar_puntos(Manilla manilla, Parque parque) /*dos formas: lista estatica o mandar el paeque como arg*/
         {
             try
             {
@@ -33,7 +43,7 @@ namespace p_parque.Clases
                 if(manilla.Sdo_ptos>=puntos)
                 {
                     manilla.Sdo_ptos-=puntos;
-                    new Registro(this,manilla);
+                    parque.L_registros.Add(new Registro(this, manilla));
 
                     return true;
                 }

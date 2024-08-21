@@ -18,5 +18,6 @@ namespace p_parque.Clases
         }
 
         public ushort Sdo_ptos { get => sdo_ptos; set => sdo_ptos = value; }
+        public int Id { get => id;  }
     }
 }
