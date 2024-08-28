@@ -1,0 +1,14 @@
+/home/mpaula/Desktop/p_cursos/bin/Debug/net8.0/p_cursos
+/home/mpaula/Desktop/p_cursos/bin/Debug/net8.0/p_cursos.deps.json
+/home/mpaula/Desktop/p_cursos/bin/Debug/net8.0/p_cursos.runtimeconfig.json
+/home/mpaula/Desktop/p_cursos/bin/Debug/net8.0/p_cursos.dll
+/home/mpaula/Desktop/p_cursos/bin/Debug/net8.0/p_cursos.pdb
+/home/mpaula/Desktop/p_cursos/obj/Debug/net8.0/p_cursos.GeneratedMSBuildEditorConfig.editorconfig
+/home/mpaula/Desktop/p_cursos/obj/Debug/net8.0/p_cursos.AssemblyInfoInputs.cache
+/home/mpaula/Desktop/p_cursos/obj/Debug/net8.0/p_cursos.AssemblyInfo.cs
+/home/mpaula/Desktop/p_cursos/obj/Debug/net8.0/p_cursos.csproj.CoreCompileInputs.cache
+/home/mpaula/Desktop/p_cursos/obj/Debug/net8.0/p_cursos.dll
+/home/mpaula/Desktop/p_cursos/obj/Debug/net8.0/refint/p_cursos.dll
+/home/mpaula/Desktop/p_cursos/obj/Debug/net8.0/p_cursos.pdb
+/home/mpaula/Desktop/p_cursos/obj/Debug/net8.0/p_cursos.genruntimeconfig.cache
+/home/mpaula/Desktop/p_cursos/obj/Debug/net8.0/ref/p_cursos.dll
