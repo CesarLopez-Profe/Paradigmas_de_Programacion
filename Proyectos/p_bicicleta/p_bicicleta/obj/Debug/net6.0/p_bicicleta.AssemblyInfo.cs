@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("p_bicicleta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71bff223df0eab3ce037797792f2b40542889ae7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de84cb66452f857994e667c5aa97572934be33ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("p_bicicleta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("p_bicicleta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
