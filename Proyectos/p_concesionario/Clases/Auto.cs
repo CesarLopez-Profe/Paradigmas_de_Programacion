@@ -1,4 +1,5 @@
-﻿using System;
+﻿using p_concesionario.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace p_concesionario.Clases
 {
-    internal abstract class Auto
+    internal abstract class Auto:I_Mantenimiento
     {
         public enum l_modelos {Rio, Forte, K5 };
         public enum l_nro_ptas { dos, tres, cuatro, cinco };
@@ -39,5 +40,7 @@ namespace p_concesionario.Clases
         protected ushort Cilindraje { get => cilindraje; set => cilindraje = value; }
         protected byte Nro_puestos { get => nro_puestos; set => nro_puestos = value; }
 
+        public abstract string Consultar_plan_mtto();
+    
     }
 }

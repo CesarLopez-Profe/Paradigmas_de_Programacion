@@ -26,5 +26,23 @@ namespace p_concesionario.Clases
         protected bool Coupe { get => coupe; set => coupe = value; }
         protected bool Descapotable { get => descapotable; set => descapotable = value; }
 
+        public override string Consultar_plan_mtto()
+        {
+            try
+            {
+                return "Lavado de inyectores\r\n" +
+                    "Cambio aceite\r\n" +
+                    "Revisión sonido" +
+                    "\r\nRevisión techo" +
+                    "\r\nCambio aceite caja" +
+                    "\r\nRevisión rines" +
+                    "\r\nRevisión potencia";                    ;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("ocurró un error consulta plan mtto, taxi");
+            }
+        }
+
     }
 }

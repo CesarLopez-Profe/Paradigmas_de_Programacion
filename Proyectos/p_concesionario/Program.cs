@@ -4,11 +4,18 @@ namespace p_concesionario
 {
     internal class Program
     {
+        public enum l_trab_soc { biblioteca, parque, ciclovia };
         static void Main(string[] args)
         {
+
             try
             {
-                Cliente agudelito = new Cliente("95555555", "Juan Agudelo", 0.012f);
+                l_trab_soc ts_elegido = (l_trab_soc)(0);
+                Console.WriteLine(ts_elegido);
+
+
+                /*
+                 * Cliente agudelito = new Cliente("95555555", "Juan Agudelo", 0.012f);
                 Vendedor mantillita = new Vendedor("76576890", "Nicolas Mantilla", 0.018f);
 
                 Taxi taxi1 = new Taxi("KLL123", "Kia", Auto.l_modelos.Rio, 2024, 1100, 5, Auto.l_nro_ptas.cuatro,
@@ -18,6 +25,7 @@ namespace p_concesionario
 
                 honesto_joe.Vender_auto(taxi1,agudelito, mantillita, 120000000);
 
+                Console.WriteLine(taxi1.Consultar_plan_mtto());*/
 
 
 

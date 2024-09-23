@@ -1,0 +1,15 @@
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_estudiantes\bin\Debug\net6.0\p_estudiantes.exe
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_estudiantes\bin\Debug\net6.0\p_estudiantes.deps.json
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_estudiantes\bin\Debug\net6.0\p_estudiantes.runtimeconfig.json
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_estudiantes\bin\Debug\net6.0\p_estudiantes.dll
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_estudiantes\bin\Debug\net6.0\p_estudiantes.pdb
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_estudiantes\obj\Debug\net6.0\p_estudiantes.csproj.AssemblyReference.cache
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_estudiantes\obj\Debug\net6.0\p_estudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_estudiantes\obj\Debug\net6.0\p_estudiantes.AssemblyInfoInputs.cache
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_estudiantes\obj\Debug\net6.0\p_estudiantes.AssemblyInfo.cs
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_estudiantes\obj\Debug\net6.0\p_estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_estudiantes\obj\Debug\net6.0\p_estudiantes.dll
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_estudiantes\obj\Debug\net6.0\refint\p_estudiantes.dll
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_estudiantes\obj\Debug\net6.0\p_estudiantes.pdb
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_estudiantes\obj\Debug\net6.0\p_estudiantes.genruntimeconfig.cache
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_estudiantes\obj\Debug\net6.0\ref\p_estudiantes.dll

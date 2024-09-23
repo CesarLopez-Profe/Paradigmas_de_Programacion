@@ -21,5 +21,21 @@ namespace p_concesionario.Clases
 
         protected string Tarjeta_ope { get => tarjeta_ope; set => tarjeta_ope = value; }
         protected string Empresa { get => empresa; set => empresa = value; }
+
+        public override string Consultar_plan_mtto()
+        {
+            try
+            {
+                return "Lavado de inyectores\r\n" +
+                    "Revisión alternador\r\n" +
+                    "Calibración taxímetro\r\n" +
+                    "Revisión frenos\r\n" +
+                    "Ajuste Suspensión\r\n";
+            }
+            catch(Exception ex)
+            {
+                throw new Exception("ocurró un error consulta plan mtto, taxi");
+            }
+        }
     }
 }
