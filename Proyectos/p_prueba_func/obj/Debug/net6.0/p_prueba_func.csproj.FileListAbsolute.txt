@@ -1,0 +1,15 @@
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_prueba_func\bin\Debug\net6.0\p_prueba_func.exe
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_prueba_func\bin\Debug\net6.0\p_prueba_func.deps.json
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_prueba_func\bin\Debug\net6.0\p_prueba_func.runtimeconfig.json
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_prueba_func\bin\Debug\net6.0\p_prueba_func.dll
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_prueba_func\bin\Debug\net6.0\p_prueba_func.pdb
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_prueba_func\obj\Debug\net6.0\p_prueba_func.csproj.AssemblyReference.cache
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_prueba_func\obj\Debug\net6.0\p_prueba_func.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_prueba_func\obj\Debug\net6.0\p_prueba_func.AssemblyInfoInputs.cache
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_prueba_func\obj\Debug\net6.0\p_prueba_func.AssemblyInfo.cs
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_prueba_func\obj\Debug\net6.0\p_prueba_func.csproj.CoreCompileInputs.cache
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_prueba_func\obj\Debug\net6.0\p_prueba_func.dll
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_prueba_func\obj\Debug\net6.0\refint\p_prueba_func.dll
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_prueba_func\obj\Debug\net6.0\p_prueba_func.pdb
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_prueba_func\obj\Debug\net6.0\p_prueba_func.genruntimeconfig.cache
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_prueba_func\obj\Debug\net6.0\ref\p_prueba_func.dll
