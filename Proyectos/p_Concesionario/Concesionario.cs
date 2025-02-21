@@ -7,9 +7,16 @@ namespace p_Concesionario
 {
     public class Concesionario
     {
+        
+        //atributos de usuario
         private string nombre;
         private string direccion;
         private string nombre_repre;
+
+        //atributos para validar reglas
+        private const byte long_nom = 5, long_dir = 10, long_nom_repr = 10;
+
+        //atributos de estado
         private List<Automovil> l_automoviles;
         private List<Automovil> l_automoviles_vendidos;
 
@@ -23,15 +30,15 @@ namespace p_Concesionario
         }
 
         public string Nombre { get => nombre; 
-            set => nombre = !(string.IsNullOrEmpty(value) || string.IsNullOrWhiteSpace(value) || value.Length <= 5) ?
+            set => nombre = !(string.IsNullOrEmpty(value) || string.IsNullOrWhiteSpace(value) || value.Length <= long_nom) ?
                 value : throw new Exception("Nombre Concesionario No Válido");
         }
         public string Direccion { get => direccion; 
-            set => direccion = !(string.IsNullOrEmpty(value) || string.IsNullOrWhiteSpace(value) || value.Length <= 10) ?
+            set => direccion = !(string.IsNullOrEmpty(value) || string.IsNullOrWhiteSpace(value) || value.Length <= long_dir) ?
                 value : throw new Exception("Dirección No Válida");
         }
         public string Nombre_repre { get => nombre_repre; 
-            set => nombre_repre = !(string.IsNullOrEmpty(value) || string.IsNullOrWhiteSpace(value) || value.Length <= 10) ?
+            set => nombre_repre = !(string.IsNullOrEmpty(value) || string.IsNullOrWhiteSpace(value) || value.Length <= long_nom_repr) ?
                 value : throw new Exception("Nombre Representante No Válido");
         }
         public List<Automovil> L_automoviles { get => l_automoviles;  }
@@ -75,5 +82,7 @@ namespace p_Concesionario
 
         }
 
+        //public bool Vender_Auto(string placa) //Este método busca el auto que le dan como parámetro en la lista 
+        //l_automovil y si lo encuentra lo saca de esa lista y lo pone en la lista de vendidos
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programación\\2024\\git_h\\Proyectos\\p_Concesionario\\p_Concesionario.csproj": {}
+    "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programación\\2025\\git_h\\Proyectos\\p_Concesionario\\p_Concesionario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programación\\2024\\git_h\\Proyectos\\p_Concesionario\\p_Concesionario.csproj": {
+    "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programación\\2025\\git_h\\Proyectos\\p_Concesionario\\p_Concesionario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programación\\2024\\git_h\\Proyectos\\p_Concesionario\\p_Concesionario.csproj",
+        "projectUniqueName": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programación\\2025\\git_h\\Proyectos\\p_Concesionario\\p_Concesionario.csproj",
         "projectName": "p_Concesionario",
-        "projectPath": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programación\\2024\\git_h\\Proyectos\\p_Concesionario\\p_Concesionario.csproj",
+        "projectPath": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programación\\2025\\git_h\\Proyectos\\p_Concesionario\\p_Concesionario.csproj",
         "packagesPath": "C:\\Users\\000096175\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programación\\2024\\git_h\\Proyectos\\p_Concesionario\\obj\\",
+        "outputPath": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programación\\2025\\git_h\\Proyectos\\p_Concesionario\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
