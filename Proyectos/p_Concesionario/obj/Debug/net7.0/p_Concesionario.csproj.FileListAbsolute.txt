@@ -1,0 +1,15 @@
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_concesionario\bin\Debug\net7.0\p_Concesionario.exe
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_concesionario\bin\Debug\net7.0\p_Concesionario.deps.json
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_concesionario\bin\Debug\net7.0\p_Concesionario.runtimeconfig.json
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_concesionario\bin\Debug\net7.0\p_Concesionario.dll
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_concesionario\bin\Debug\net7.0\p_Concesionario.pdb
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_concesionario\obj\Debug\net7.0\p_Concesionario.csproj.AssemblyReference.cache
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_concesionario\obj\Debug\net7.0\p_Concesionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_concesionario\obj\Debug\net7.0\p_Concesionario.AssemblyInfoInputs.cache
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_concesionario\obj\Debug\net7.0\p_Concesionario.AssemblyInfo.cs
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_concesionario\obj\Debug\net7.0\p_Concesionario.csproj.CoreCompileInputs.cache
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_concesionario\obj\Debug\net7.0\p_Concesionario.dll
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_concesionario\obj\Debug\net7.0\refint\p_Concesionario.dll
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_concesionario\obj\Debug\net7.0\p_Concesionario.pdb
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_concesionario\obj\Debug\net7.0\p_Concesionario.genruntimeconfig.cache
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2024\git_h\Proyectos\p_concesionario\obj\Debug\net7.0\ref\p_Concesionario.dll
