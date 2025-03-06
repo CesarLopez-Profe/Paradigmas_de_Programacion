@@ -14,7 +14,7 @@ namespace p_Parque.Clases
         private byte ptos_ingresar;
 
         //Atributos de validación
-        private readonly byte ptos_min = 10, ptos_max = 25, long_min_nom;
+        private readonly byte ptos_min = 10, ptos_max = 25, long_min_nom=5;
         private readonly TimeSpan dur_min = new TimeSpan(0,1,0), dur_max = new TimeSpan(0,5,0);
 
         public Atraccion(string nombre, TimeSpan duracion, byte ptos_ingresar)
@@ -32,15 +32,19 @@ namespace p_Parque.Clases
         public TimeSpan Duracion { get => duracion; 
             set => duracion = value >= dur_min && value <= dur_max?value: throw new Exception($"La duración {value} no es válida válidos");
         }
-        .
-        public Registro RegistrarIngreso(Manilla manilla)
+        
+        public string RegistrarIngreso(Manilla manilla)
         {
             try
             {
-
-                return new Registro(manilla, this);
-                //se debe replantear para enviar el registro a la lista de reg del parque
-
+                if(manilla.Saldo_ptos >= ptos_ingresar)
+                {
+                    manilla.RestarSaldo(ptos_ingresar);
+                    Parque.l_registros.Add(new Registro(manilla, this));
+                    return ($"Ingreso aceptado, le quedan de saldo {manilla.Saldo_ptos} puntos");
+                }
+                else
+                    return ($"Ingreso rechazado, su saldo es {manilla.Saldo_ptos} puntos y para ingresar necesita {ptos_ingresar} puntos" );
             }
             catch (Exception ex)
             {

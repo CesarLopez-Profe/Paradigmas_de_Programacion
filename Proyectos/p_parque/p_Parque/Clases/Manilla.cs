@@ -8,19 +8,29 @@ namespace p_Parque.Clases
 {
     internal class Manilla
     {
-        private uint id;
+        private static uint id = 100000;
         private uint saldo_ptos;
 
         public Manilla()
         {
-            id = (uint) new Random().Next(100000,9999999);
+            id+=1;
             saldo_ptos = 0;
         }
 
         public uint Id { get => id;  }
         public uint Saldo_ptos { get => saldo_ptos;  }
 
-        internal bool ActualizarSaldo()
+        internal void RestarSaldo(byte ptos) 
+        {
+                try
+                {
+                    saldo_ptos -= ptos;
+                }
+                catch(Exception ex) 
+                { 
+                        throw new Exception( $"Excepción no esperada en el método actualizar_saldo {ex.Message}");
+                }
+        }
 
     }
 }
