@@ -1,0 +1,15 @@
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\git_h\Proyectos\p_Conces_Herencia\p_conces_herencia\bin\Debug\net8.0\p_conces_herencia.exe
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\git_h\Proyectos\p_Conces_Herencia\p_conces_herencia\bin\Debug\net8.0\p_conces_herencia.deps.json
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\git_h\Proyectos\p_Conces_Herencia\p_conces_herencia\bin\Debug\net8.0\p_conces_herencia.runtimeconfig.json
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\git_h\Proyectos\p_Conces_Herencia\p_conces_herencia\bin\Debug\net8.0\p_conces_herencia.dll
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\git_h\Proyectos\p_Conces_Herencia\p_conces_herencia\bin\Debug\net8.0\p_conces_herencia.pdb
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\git_h\Proyectos\p_Conces_Herencia\p_conces_herencia\obj\Debug\net8.0\p_conces_herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\git_h\Proyectos\p_Conces_Herencia\p_conces_herencia\obj\Debug\net8.0\p_conces_herencia.AssemblyInfoInputs.cache
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\git_h\Proyectos\p_Conces_Herencia\p_conces_herencia\obj\Debug\net8.0\p_conces_herencia.AssemblyInfo.cs
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\git_h\Proyectos\p_Conces_Herencia\p_conces_herencia\obj\Debug\net8.0\p_conces_herencia.csproj.CoreCompileInputs.cache
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\git_h\Proyectos\p_Conces_Herencia\p_conces_herencia\obj\Debug\net8.0\p_conces_herencia.sourcelink.json
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\git_h\Proyectos\p_Conces_Herencia\p_conces_herencia\obj\Debug\net8.0\p_conces_herencia.dll
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\git_h\Proyectos\p_Conces_Herencia\p_conces_herencia\obj\Debug\net8.0\refint\p_conces_herencia.dll
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\git_h\Proyectos\p_Conces_Herencia\p_conces_herencia\obj\Debug\net8.0\p_conces_herencia.pdb
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\git_h\Proyectos\p_Conces_Herencia\p_conces_herencia\obj\Debug\net8.0\p_conces_herencia.genruntimeconfig.cache
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\git_h\Proyectos\p_Conces_Herencia\p_conces_herencia\obj\Debug\net8.0\ref\p_conces_herencia.dll
