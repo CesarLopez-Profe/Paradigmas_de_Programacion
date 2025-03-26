@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programación\\2025\\git_h\\Proyectos\\p_Conces_Herencia\\p_conces_herencia\\p_conces_herencia.csproj",
+      "projectUniqueName": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programación\\2025\\git_h\\Proyectos\\p_conces_herencia\\p_conces_herencia\\p_conces_herencia.csproj",
       "projectName": "p_conces_herencia",
-      "projectPath": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programación\\2025\\git_h\\Proyectos\\p_Conces_Herencia\\p_conces_herencia\\p_conces_herencia.csproj",
+      "projectPath": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programación\\2025\\git_h\\Proyectos\\p_conces_herencia\\p_conces_herencia\\p_conces_herencia.csproj",
       "packagesPath": "C:\\Users\\000096175\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programación\\2025\\git_h\\Proyectos\\p_Conces_Herencia\\p_conces_herencia\\obj\\",
+      "outputPath": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programación\\2025\\git_h\\Proyectos\\p_conces_herencia\\p_conces_herencia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
