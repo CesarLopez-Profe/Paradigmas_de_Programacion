@@ -1,0 +1,12 @@
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\git_h\Proyectos\b_multiplex\bin\Debug\net5.0\b_multiplex.deps.json
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\git_h\Proyectos\b_multiplex\bin\Debug\net5.0\b_multiplex.dll
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\git_h\Proyectos\b_multiplex\bin\Debug\net5.0\b_multiplex.pdb
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\git_h\Proyectos\b_multiplex\obj\Debug\net5.0\b_multiplex.csproj.AssemblyReference.cache
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\git_h\Proyectos\b_multiplex\obj\Debug\net5.0\b_multiplex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\git_h\Proyectos\b_multiplex\obj\Debug\net5.0\b_multiplex.AssemblyInfoInputs.cache
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\git_h\Proyectos\b_multiplex\obj\Debug\net5.0\b_multiplex.AssemblyInfo.cs
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\git_h\Proyectos\b_multiplex\obj\Debug\net5.0\b_multiplex.csproj.CoreCompileInputs.cache
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\git_h\Proyectos\b_multiplex\obj\Debug\net5.0\b_multiplex.dll
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\git_h\Proyectos\b_multiplex\obj\Debug\net5.0\refint\b_multiplex.dll
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\git_h\Proyectos\b_multiplex\obj\Debug\net5.0\b_multiplex.pdb
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\git_h\Proyectos\b_multiplex\obj\Debug\net5.0\ref\b_multiplex.dll
