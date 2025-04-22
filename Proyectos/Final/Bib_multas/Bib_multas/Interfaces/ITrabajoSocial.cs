@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Bib_multas.Interfaces
+{
+    public interface ITrabajoSocial
+    {
+        string Asignar_trabajo_social();
+    }
+}

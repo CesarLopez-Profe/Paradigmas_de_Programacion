@@ -1,0 +1,15 @@
+C:\Users\000096175\source\repos\Ev_Notas\Ev_Notas\bin\Debug\net6.0\Ev_Notas.exe
+C:\Users\000096175\source\repos\Ev_Notas\Ev_Notas\bin\Debug\net6.0\Ev_Notas.deps.json
+C:\Users\000096175\source\repos\Ev_Notas\Ev_Notas\bin\Debug\net6.0\Ev_Notas.runtimeconfig.json
+C:\Users\000096175\source\repos\Ev_Notas\Ev_Notas\bin\Debug\net6.0\Ev_Notas.dll
+C:\Users\000096175\source\repos\Ev_Notas\Ev_Notas\bin\Debug\net6.0\Ev_Notas.pdb
+C:\Users\000096175\source\repos\Ev_Notas\Ev_Notas\obj\Debug\net6.0\Ev_Notas.csproj.AssemblyReference.cache
+C:\Users\000096175\source\repos\Ev_Notas\Ev_Notas\obj\Debug\net6.0\Ev_Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\000096175\source\repos\Ev_Notas\Ev_Notas\obj\Debug\net6.0\Ev_Notas.AssemblyInfoInputs.cache
+C:\Users\000096175\source\repos\Ev_Notas\Ev_Notas\obj\Debug\net6.0\Ev_Notas.AssemblyInfo.cs
+C:\Users\000096175\source\repos\Ev_Notas\Ev_Notas\obj\Debug\net6.0\Ev_Notas.csproj.CoreCompileInputs.cache
+C:\Users\000096175\source\repos\Ev_Notas\Ev_Notas\obj\Debug\net6.0\Ev_Notas.dll
+C:\Users\000096175\source\repos\Ev_Notas\Ev_Notas\obj\Debug\net6.0\refint\Ev_Notas.dll
+C:\Users\000096175\source\repos\Ev_Notas\Ev_Notas\obj\Debug\net6.0\Ev_Notas.pdb
+C:\Users\000096175\source\repos\Ev_Notas\Ev_Notas\obj\Debug\net6.0\Ev_Notas.genruntimeconfig.cache
+C:\Users\000096175\source\repos\Ev_Notas\Ev_Notas\obj\Debug\net6.0\ref\Ev_Notas.dll

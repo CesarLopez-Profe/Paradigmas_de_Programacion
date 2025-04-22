@@ -1,0 +1,12 @@
+C:\Users\gabri\Universidad\2021-1\POO\Practicas_programacion\Bib_multas\Bib_multas\bin\Debug\Bib_multas.dll
+C:\Users\gabri\Universidad\2021-1\POO\Practicas_programacion\Bib_multas\Bib_multas\bin\Debug\Bib_multas.pdb
+C:\Users\gabri\Universidad\2021-1\POO\Practicas_programacion\Bib_multas\Bib_multas\obj\Debug\Bib_multas.csprojAssemblyReference.cache
+C:\Users\gabri\Universidad\2021-1\POO\Practicas_programacion\Bib_multas\Bib_multas\obj\Debug\Bib_multas.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Universidad\2021-1\POO\Practicas_programacion\Bib_multas\Bib_multas\obj\Debug\Bib_multas.dll
+C:\Users\gabri\Universidad\2021-1\POO\Practicas_programacion\Bib_multas\Bib_multas\obj\Debug\Bib_multas.pdb
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\Repos\Bib_multas\Bib_multas\bin\Debug\Bib_multas.dll
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\Repos\Bib_multas\Bib_multas\bin\Debug\Bib_multas.pdb
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\Repos\Bib_multas\Bib_multas\obj\Debug\Bib_multas.csproj.AssemblyReference.cache
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\Repos\Bib_multas\Bib_multas\obj\Debug\Bib_multas.csproj.CoreCompileInputs.cache
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\Repos\Bib_multas\Bib_multas\obj\Debug\Bib_multas.dll
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\Repos\Bib_multas\Bib_multas\obj\Debug\Bib_multas.pdb
