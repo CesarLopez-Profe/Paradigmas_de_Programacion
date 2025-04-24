@@ -13,11 +13,16 @@ namespace Bib_multas.Clases
         private inf_menores inf_menor;
         private readonly byte cant_sal_min =3;
         private readonly ushort ptos_a_restar = 1000;
+
+        
+
         public Menor(Conductor sancionado, Vehiculo vehiculo, inf_menores inf_menor) : base(sancionado, vehiculo) 
         {
             this.inf_menor = inf_menor;
             Valor = Calcular_sancion();
         }
+
+        public inf_menores Inf_menor { get => inf_menor;  }
 
         public override ulong Calcular_sancion()
         {

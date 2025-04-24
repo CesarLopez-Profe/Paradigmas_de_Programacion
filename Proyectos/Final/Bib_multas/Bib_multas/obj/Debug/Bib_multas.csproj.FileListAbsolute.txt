@@ -10,3 +10,9 @@ C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\20
 C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\Repos\Bib_multas\Bib_multas\obj\Debug\Bib_multas.csproj.CoreCompileInputs.cache
 C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\Repos\Bib_multas\Bib_multas\obj\Debug\Bib_multas.dll
 C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\Repos\Bib_multas\Bib_multas\obj\Debug\Bib_multas.pdb
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\git_h\Proyectos\Final\Bib_multas\Bib_multas\bin\Debug\Bib_multas.dll
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\git_h\Proyectos\Final\Bib_multas\Bib_multas\bin\Debug\Bib_multas.pdb
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\git_h\Proyectos\Final\Bib_multas\Bib_multas\obj\Debug\Bib_multas.csproj.AssemblyReference.cache
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\git_h\Proyectos\Final\Bib_multas\Bib_multas\obj\Debug\Bib_multas.csproj.CoreCompileInputs.cache
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\git_h\Proyectos\Final\Bib_multas\Bib_multas\obj\Debug\Bib_multas.dll
+C:\Users\000096175\OneDrive - UPB\Cursos Pregrado\Paradigmas de Programación\2025\git_h\Proyectos\Final\Bib_multas\Bib_multas\obj\Debug\Bib_multas.pdb

@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programaci\u00F3n\\2025\\Repos\\Bib_multas\\",
+  "WorkspaceRootPath": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programaci\u00F3n\\2025\\git_h\\Proyectos\\Final\\Bib_multas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9AA1EACC-0F60-491A-A246-256C6DDE3EFB}|Bib_multas\\Bib_multas.csproj|c:\\users\\000096175\\onedrive - upb\\cursos pregrado\\paradigmas de programaci\u00F3n\\2025\\repos\\bib_multas\\bib_multas\\clases\\mayor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AA1EACC-0F60-491A-A246-256C6DDE3EFB}|Bib_multas\\Bib_multas.csproj|solutionrelative:bib_multas\\clases\\mayor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AA1EACC-0F60-491A-A246-256C6DDE3EFB}|Bib_multas\\Bib_multas.csproj|c:\\users\\000096175\\onedrive - upb\\cursos pregrado\\paradigmas de programaci\u00F3n\\2025\\repos\\bib_multas\\bib_multas\\clases\\menor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9AA1EACC-0F60-491A-A246-256C6DDE3EFB}|Bib_multas\\Bib_multas.csproj|C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programaci\u00F3n\\2025\\git_h\\Proyectos\\Final\\Bib_multas\\bib_multas\\clases\\menor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AA1EACC-0F60-491A-A246-256C6DDE3EFB}|Bib_multas\\Bib_multas.csproj|solutionrelative:bib_multas\\clases\\menor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AA1EACC-0F60-491A-A246-256C6DDE3EFB}|Bib_multas\\Bib_multas.csproj|c:\\users\\000096175\\onedrive - upb\\cursos pregrado\\paradigmas de programaci\u00F3n\\2025\\repos\\bib_multas\\bib_multas\\clases\\multa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9AA1EACC-0F60-491A-A246-256C6DDE3EFB}|Bib_multas\\Bib_multas.csproj|c:\\users\\000096175\\onedrive - upb\\cursos pregrado\\paradigmas de programaci\u00F3n\\2025\\git_h\\proyectos\\final\\bib_multas\\bib_multas\\clases\\mayor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA1EACC-0F60-491A-A246-256C6DDE3EFB}|Bib_multas\\Bib_multas.csproj|solutionrelative:bib_multas\\clases\\mayor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA1EACC-0F60-491A-A246-256C6DDE3EFB}|Bib_multas\\Bib_multas.csproj|C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programaci\u00F3n\\2025\\git_h\\Proyectos\\Final\\Bib_multas\\bib_multas\\clases\\multa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AA1EACC-0F60-491A-A246-256C6DDE3EFB}|Bib_multas\\Bib_multas.csproj|solutionrelative:bib_multas\\clases\\multa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AA1EACC-0F60-491A-A246-256C6DDE3EFB}|Bib_multas\\Bib_multas.csproj|c:\\users\\000096175\\onedrive - upb\\cursos pregrado\\paradigmas de programaci\u00F3n\\2025\\repos\\bib_multas\\bib_multas\\clases\\transito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9AA1EACC-0F60-491A-A246-256C6DDE3EFB}|Bib_multas\\Bib_multas.csproj|C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programaci\u00F3n\\2025\\git_h\\Proyectos\\Final\\Bib_multas\\bib_multas\\clases\\transito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AA1EACC-0F60-491A-A246-256C6DDE3EFB}|Bib_multas\\Bib_multas.csproj|solutionrelative:bib_multas\\clases\\transito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AA1EACC-0F60-491A-A246-256C6DDE3EFB}|Bib_multas\\Bib_multas.csproj|c:\\users\\000096175\\onedrive - upb\\cursos pregrado\\paradigmas de programaci\u00F3n\\2025\\repos\\bib_multas\\bib_multas\\interfaces\\isancioneconomica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9AA1EACC-0F60-491A-A246-256C6DDE3EFB}|Bib_multas\\Bib_multas.csproj|C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programaci\u00F3n\\2025\\git_h\\Proyectos\\Final\\Bib_multas\\bib_multas\\interfaces\\isancioneconomica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AA1EACC-0F60-491A-A246-256C6DDE3EFB}|Bib_multas\\Bib_multas.csproj|solutionrelative:bib_multas\\interfaces\\isancioneconomica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AA1EACC-0F60-491A-A246-256C6DDE3EFB}|Bib_multas\\Bib_multas.csproj|c:\\users\\000096175\\onedrive - upb\\cursos pregrado\\paradigmas de programaci\u00F3n\\2025\\repos\\bib_multas\\bib_multas\\eventos\\publ_anul_lic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9AA1EACC-0F60-491A-A246-256C6DDE3EFB}|Bib_multas\\Bib_multas.csproj|C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programaci\u00F3n\\2025\\git_h\\Proyectos\\Final\\Bib_multas\\bib_multas\\eventos\\publ_anul_lic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AA1EACC-0F60-491A-A246-256C6DDE3EFB}|Bib_multas\\Bib_multas.csproj|solutionrelative:bib_multas\\eventos\\publ_anul_lic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,34 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Menor.cs",
-              "DocumentMoniker": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programaci\u00F3n\\2025\\Repos\\Bib_multas\\Bib_multas\\Clases\\Menor.cs",
-              "RelativeDocumentMoniker": "Bib_multas\\Clases\\Menor.cs",
-              "ToolTip": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programaci\u00F3n\\2025\\Repos\\Bib_multas\\Bib_multas\\Clases\\Menor.cs",
-              "RelativeToolTip": "Bib_multas\\Clases\\Menor.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T17:36:26.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ISancionEconomica.cs",
-              "DocumentMoniker": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programaci\u00F3n\\2025\\Repos\\Bib_multas\\Bib_multas\\Interfaces\\ISancionEconomica.cs",
-              "RelativeDocumentMoniker": "Bib_multas\\Interfaces\\ISancionEconomica.cs",
-              "ToolTip": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programaci\u00F3n\\2025\\Repos\\Bib_multas\\Bib_multas\\Interfaces\\ISancionEconomica.cs",
-              "RelativeToolTip": "Bib_multas\\Interfaces\\ISancionEconomica.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T17:31:46.155Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
@@ -76,13 +50,38 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menor.cs",
+              "DocumentMoniker": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programaci\u00F3n\\2025\\git_h\\Proyectos\\Final\\Bib_multas\\Bib_multas\\Clases\\Menor.cs",
+              "RelativeDocumentMoniker": "Bib_multas\\Clases\\Menor.cs",
+              "ToolTip": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programaci\u00F3n\\2025\\git_h\\Proyectos\\Final\\Bib_multas\\Bib_multas\\Clases\\Menor.cs",
+              "RelativeToolTip": "Bib_multas\\Clases\\Menor.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:36:26.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISancionEconomica.cs",
+              "DocumentMoniker": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programaci\u00F3n\\2025\\git_h\\Proyectos\\Final\\Bib_multas\\Bib_multas\\Interfaces\\ISancionEconomica.cs",
+              "RelativeDocumentMoniker": "Bib_multas\\Interfaces\\ISancionEconomica.cs",
+              "ToolTip": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programaci\u00F3n\\2025\\git_h\\Proyectos\\Final\\Bib_multas\\Bib_multas\\Interfaces\\ISancionEconomica.cs",
+              "RelativeToolTip": "Bib_multas\\Interfaces\\ISancionEconomica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:31:46.155Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Multa.cs",
-              "DocumentMoniker": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programaci\u00F3n\\2025\\Repos\\Bib_multas\\Bib_multas\\Clases\\Multa.cs",
+              "DocumentMoniker": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programaci\u00F3n\\2025\\git_h\\Proyectos\\Final\\Bib_multas\\Bib_multas\\Clases\\Multa.cs",
               "RelativeDocumentMoniker": "Bib_multas\\Clases\\Multa.cs",
-              "ToolTip": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programaci\u00F3n\\2025\\Repos\\Bib_multas\\Bib_multas\\Clases\\Multa.cs",
+              "ToolTip": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programaci\u00F3n\\2025\\git_h\\Proyectos\\Final\\Bib_multas\\Bib_multas\\Clases\\Multa.cs",
               "RelativeToolTip": "Bib_multas\\Clases\\Multa.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwCEAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T17:30:14.703Z",
               "EditorCaption": ""
@@ -91,24 +90,23 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Publ_Anul_Lic.cs",
-              "DocumentMoniker": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programaci\u00F3n\\2025\\Repos\\Bib_multas\\Bib_multas\\Eventos\\Publ_Anul_Lic.cs",
+              "DocumentMoniker": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programaci\u00F3n\\2025\\git_h\\Proyectos\\Final\\Bib_multas\\Bib_multas\\Eventos\\Publ_Anul_Lic.cs",
               "RelativeDocumentMoniker": "Bib_multas\\Eventos\\Publ_Anul_Lic.cs",
-              "ToolTip": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programaci\u00F3n\\2025\\Repos\\Bib_multas\\Bib_multas\\Eventos\\Publ_Anul_Lic.cs",
+              "ToolTip": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programaci\u00F3n\\2025\\git_h\\Proyectos\\Final\\Bib_multas\\Bib_multas\\Eventos\\Publ_Anul_Lic.cs",
               "RelativeToolTip": "Bib_multas\\Eventos\\Publ_Anul_Lic.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAApwBMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T17:04:04.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T17:04:04.881Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Mayor.cs",
-              "DocumentMoniker": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programaci\u00F3n\\2025\\Repos\\Bib_multas\\Bib_multas\\Clases\\Mayor.cs",
+              "DocumentMoniker": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programaci\u00F3n\\2025\\git_h\\Proyectos\\Final\\Bib_multas\\Bib_multas\\Clases\\Mayor.cs",
               "RelativeDocumentMoniker": "Bib_multas\\Clases\\Mayor.cs",
-              "ToolTip": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programaci\u00F3n\\2025\\Repos\\Bib_multas\\Bib_multas\\Clases\\Mayor.cs",
+              "ToolTip": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programaci\u00F3n\\2025\\git_h\\Proyectos\\Final\\Bib_multas\\Bib_multas\\Clases\\Mayor.cs",
               "RelativeToolTip": "Bib_multas\\Clases\\Mayor.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T16:58:14.466Z",
               "EditorCaption": ""
@@ -117,14 +115,13 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Transito.cs",
-              "DocumentMoniker": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programaci\u00F3n\\2025\\Repos\\Bib_multas\\Bib_multas\\Clases\\Transito.cs",
+              "DocumentMoniker": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programaci\u00F3n\\2025\\git_h\\Proyectos\\Final\\Bib_multas\\Bib_multas\\Clases\\Transito.cs",
               "RelativeDocumentMoniker": "Bib_multas\\Clases\\Transito.cs",
-              "ToolTip": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programaci\u00F3n\\2025\\Repos\\Bib_multas\\Bib_multas\\Clases\\Transito.cs",
+              "ToolTip": "C:\\Users\\000096175\\OneDrive - UPB\\Cursos Pregrado\\Paradigmas de Programaci\u00F3n\\2025\\git_h\\Proyectos\\Final\\Bib_multas\\Bib_multas\\Clases\\Transito.cs",
               "RelativeToolTip": "Bib_multas\\Clases\\Transito.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T16:54:04.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T16:54:04.555Z"
             }
           ]
         }

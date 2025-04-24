@@ -9,6 +9,7 @@ namespace Bib_multas.Clases
 {
     public abstract class Multa : ISancionEconomica
     {
+        
         protected Conductor sancionado;
         protected Vehiculo vehiculo;
         protected ulong valor;
@@ -20,7 +21,7 @@ namespace Bib_multas.Clases
             Random r = new Random();
 
             this.sancionado = sancionado;
-            this.vehiculo = vehiculo;        
+            this.vehiculo = vehiculo;
             fecha_hora = DateTime.Now;
             consecutivo = (ulong)(r.Next(100000, 999999));
             

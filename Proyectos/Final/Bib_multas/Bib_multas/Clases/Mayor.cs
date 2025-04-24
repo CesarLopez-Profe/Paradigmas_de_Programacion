@@ -11,7 +11,7 @@ namespace Bib_multas.Clases
     public class Mayor : Multa, ITrabajoSocial, IAnulaLicencia
     {
         public enum inf_mayores { soat_vencido, tecnico_mecanica, Manejar_embriagado}; 
-        private inf_mayores inf_mayor;
+        new private inf_mayores inf_mayor;
         private readonly byte cant_sal_min = 15;
 
         internal Publ_Anul_Lic pub_anu_lic;
