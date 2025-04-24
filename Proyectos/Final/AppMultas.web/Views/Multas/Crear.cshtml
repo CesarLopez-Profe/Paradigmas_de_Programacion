@@ -1,0 +1,52 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@{
+    ViewData["Title"] = "Registrar Multa";
+
+    var conductores = ViewBag.Conductores as IEnumerable<Bib_multas.Clases.Conductor>;
+    var vehiculos = ViewBag.Vehiculos as IEnumerable<Bib_multas.Clases.Vehiculo>;
+}
+
+<h2>Registrar Multa</h2>
+
+@if (ViewBag.Error != null)
+{
+    <p style="color:red">@ViewBag.Error</p>
+}
+
+<form asp-action="Crear" method="post" class="mt-3">
+    <div class="form-group">
+        <label for="idConductor">Conductor</label>
+        <select name="idConductor" class="form-control" required>
+            <option value="">-- Seleccione un conductor --</option>
+            @foreach (var c in conductores ?? new List<Bib_multas.Clases.Conductor>())
+            {
+                <option value="@c.Id">@c.Nombre - @c.Id</option>
+            }
+        </select>
+    </div>
+
+    <div class="form-group mt-3">
+        <label for="placaVehiculo">Vehículo</label>
+        <select name="placaVehiculo" class="form-control" required>
+            <option value="">-- Seleccione un vehículo --</option>
+            @foreach (var v in vehiculos ?? new List<Bib_multas.Clases.Vehiculo>())
+            {
+                <option value="@v.Placa">@v.Placa - @v.Modelo</option>
+            }
+        </select>
+    </div>
+
+    <div class="form-group mt-3">
+        <label for="tipoMulta">Tipo de Multa</label>
+        <select name="tipoMulta" class="form-control" required>
+            <option value="">-- Seleccione tipo de multa --</option>
+            <option value="Menor">Menor</option>
+            <option value="Mayor">Mayor</option>
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-4">Guardar Multa</button>
+</form>

@@ -1,0 +1,45 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@{
+    ViewData["Title"] = "Resumen de Multas";
+    var resumenConductores = ViewBag.ResumenConductores as Dictionary<string, (int, ulong)>;
+}
+
+<h2>Resumen de Multas por Conductor</h2>
+
+@if (resumenConductores != null && resumenConductores.Any())
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Conductor</th>
+                <th>Cantidad de Multas</th>
+                <th>Total ($)</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in resumenConductores)
+            {
+                <tr>
+                    <td>@item.Key</td>
+                    <td>@item.Value.Item1</td>
+                    <td>$@item.Value.Item2</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No hay multas registradas.</p>
+}
+
+<h2 class="mt-4">Resumen por Tipo</h2>
+<ul>
+    <li><strong>Multas Mayores:</strong> @ViewBag.Mayores</li>
+    <li><strong>Multas Menores:</strong> @ViewBag.Menores</li>
+    <li><strong>Total Recaudado:</strong> $@ViewBag.Total</li>
+</ul>

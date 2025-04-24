@@ -1,0 +1,29 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<form asp-action="Crear" method="post">
+    <label>Tipo ID</label>
+    <select name="tipoId">
+        <option value="CC">CC</option>
+        <option value="TI">TI</option>
+        <option value="CE">CE</option>
+        <option value="PAS">PAS</option>
+    </select><br />
+
+    <label>ID</label>
+    <input type="text" name="id" class="form-control" required /><br />
+
+    <label>Nombre</label>
+    <input type="text" name="nombre" class="form-control" required /><br />
+
+    <label>Edad</label>
+    <input type="number" name="edad" class="form-control" required /><br />
+
+    <button type="submit">Registrar</button>
+</form>
+@if (ViewBag.Error != null)
+{
+    <p style="color:red">@ViewBag.Error</p>
+}
