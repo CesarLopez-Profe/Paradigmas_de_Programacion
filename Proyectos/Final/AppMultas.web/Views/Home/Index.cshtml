@@ -1,0 +1,31 @@
+﻿@*
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+*@
+
+@{
+    ViewData["Title"] = "Inicio";
+}
+
+<div class="text-center mt-4">
+    <h1 class="display-4">Sistema de Gestión de Multas</h1>
+    <p class="lead">Administra conductores, vehículos y sanciones de tránsito con facilidad.</p>
+</div>
+
+<div class="mt-4">
+    <img src="~/images/autop2.jpg"
+         alt="Autopistas"
+         class="img-fluid rounded shadow" />
+</div>
+
+<div class="mt-5 d-flex justify-content-center gap-3">
+    <a asp-controller="Conductores" asp-action="Index" class="btn btn-outline-primary btn-lg">Ver Conductores</a>
+    <a asp-controller="Vehiculos" asp-action="Index" class="btn btn-outline-secondary btn-lg">Ver Vehículos</a>
+    <a asp-controller="Multas" asp-action="Index" class="btn btn-outline-danger btn-lg">Ver Multas</a>
+</div>

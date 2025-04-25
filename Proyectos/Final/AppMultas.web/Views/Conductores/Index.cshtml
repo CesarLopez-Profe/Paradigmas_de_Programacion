@@ -1,0 +1,41 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model IEnumerable<Bib_multas.Clases.Conductor>
+
+<h2>Conductores registrados</h2>
+
+<a class="btn btn-primary" asp-action="Crear">Nuevo Conductor</a>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table table-bordered mt-3">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>ID</th>
+                <th>Edad</th>
+                <th>Licencia</th>
+                <th>Puntos</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var c in Model)
+            {
+                <tr>
+                    <td>@c.Nombre</td>
+                    <td>@c.Id</td>
+                    <td>@c.Edad</td>
+                    <td>@c.Num_licencia</td>
+                    <td>@c.Total_puntos</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No hay conductores registrados.</p>
+}
