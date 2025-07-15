@@ -8,7 +8,7 @@ Cabe aclarar que esta tabla resume brevemente el contenido de cada documento, pa
 
 ## Documentos	
 
-  • [Trayecto de la materia](Planeacion_curso_paradigmas_2024-2.xlsx) 
+  • [Trayecto de la materia](Planeacion_curso_paradigmas_2025-2.xlsx) 
 
   • [Los Mandamientos del programador](https://www.canva.com/design/DAGLDNHOZ0A/tjMNPkM1jW5kIDijSATwRA/edit?utm_content=DAGLDNHOZ0A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
