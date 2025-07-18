@@ -15,9 +15,9 @@ Cabe aclarar que esta tabla resume brevemente el contenido de cada documento, pa
 
 ## Paradigma Orientado a Objetos
   
-  • [Repaso]
+  • Repaso
 
-  ••• [Repaso] (Proyectos/Repaso/Vectores.cs)
+    • [Vectores](Proyectos/Repaso/Vectores.cs)
 
   • [Conceptos Básicos de Clases](Slides/POO/2%20Conceptos%20Básicos%20de%20Clases.pptx)
 
