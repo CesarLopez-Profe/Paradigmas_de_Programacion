@@ -13,13 +13,22 @@ Cabe aclarar que esta tabla resume brevemente el contenido de cada documento, pa
   • [Los Mandamientos del programador](https://www.canva.com/design/DAGLDNHOZ0A/tjMNPkM1jW5kIDijSATwRA/edit?utm_content=DAGLDNHOZ0A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
-## Paradigma Orientado a Objetos
-  
-  ## Repaso
+ 
+## Repaso
 
+  • [Tipos de Datos](https://github.com/CesarLopez-Profe/Paradigmas_de_Programacion/blob/main/Proyectos/Repaso/TiposDatos.cs)
+  • [Condicionales](https://github.com/CesarLopez-Profe/Paradigmas_de_Programacion/blob/main/Proyectos/Repaso/Condicionales.cs)
+  • [Ciclos For y Listas](https://github.com/CesarLopez-Profe/Paradigmas_de_Programacion/blob/main/Proyectos/Repaso/Ciclos_For_Listas.cs)  
+  • [Ciclos While y Do While](https://github.com/CesarLopez-Profe/Paradigmas_de_Programacion/blob/main/Proyectos/Repaso/Ciclos_While_DoWhile.cs)
+  • [Archivos](https://github.com/CesarLopez-Profe/Paradigmas_de_Programacion/blob/main/Proyectos/Repaso/Archivos.cs)
+  • [Diccionarios](https://github.com/CesarLopez-Profe/Paradigmas_de_Programacion/blob/main/Proyectos/Repaso/Diccionarios.cs)
+  • [Tuplas](https://github.com/CesarLopez-Profe/Paradigmas_de_Programacion/blob/main/Proyectos/Repaso/Tuplas.cs)
   • [Vectores](https://github.com/CesarLopez-Profe/Paradigmas_de_Programacion/blob/main/Proyectos/Repaso/Vectores.cs)  
+  • [Matrices](https://github.com/CesarLopez-Profe/Paradigmas_de_Programacion/blob/main/Proyectos/Repaso/Matrices.cs) 
+  • [Funciones](https://github.com/CesarLopez-Profe/Paradigmas_de_Programacion/blob/main/Proyectos/Repaso/Funciones.cs) 
+  • [Aleatorios y Formateo de Texto](https://github.com/CesarLopez-Profe/Paradigmas_de_Programacion/blob/main/Proyectos/Repaso/Random_Format.cs) 
 
-  ## Paradigma Orientado a Objetos
+## Paradigma Orientado a Objetos
 
   • [Conceptos Básicos de Clases](Slides/POO/2%20Conceptos%20Básicos%20de%20Clases.pptx)
 
