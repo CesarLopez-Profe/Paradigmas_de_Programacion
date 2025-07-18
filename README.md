@@ -15,9 +15,11 @@ Cabe aclarar que esta tabla resume brevemente el contenido de cada documento, pa
 
 ## Paradigma Orientado a Objetos
   
-  • Repaso
+  ## Repaso
 
-    • [Vectores](Proyectos/Repaso/Vectores.cs)
+  • [Vectores](https://github.com/CesarLopez-Profe/Paradigmas_de_Programacion/blob/main/Proyectos/Repaso/Vectores.cs)  
+
+  ## Paradigma Orientado a Objetos
 
   • [Conceptos Básicos de Clases](Slides/POO/2%20Conceptos%20Básicos%20de%20Clases.pptx)
 
