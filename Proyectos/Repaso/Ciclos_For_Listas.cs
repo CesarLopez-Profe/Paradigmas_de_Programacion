@@ -57,3 +57,21 @@ foreach (string elemento in l_automoviles)
 {
     Console.WriteLine(elemento);
 }
+
+//Listas con múltiples tipos de datos.. esto se conoce como lista tuplas
+
+List<(uint id, string nombre, ulong telefono, string direccion, ulong saldoPuntos)> clientes = new List<(uint, string, ulong, string, ulong)>();
+clientes.Add((1, "Ana", 3210001111, "Calle 1", 100));
+clientes.Add((2, "Luis", 3210002222, "Calle 2", 200));
+clientes.Add((3, "Maria", 3210003333, "Calle 3", 300));
+
+var indexCliente = clientes.FindIndex(c => c.id == 3);
+
+if (indexCliente == -1)
+    Console.WriteLine("Cliente no encontrado");
+else
+{
+    var cliente = clientes[indexCliente];
+    Console.WriteLine($"Cliente encontrado: {cliente.nombre}, Teléfono: {cliente.telefono}, Dirección: {cliente.direccion}, Saldo de Puntos: {cliente.saldoPuntos}");
+}
+
