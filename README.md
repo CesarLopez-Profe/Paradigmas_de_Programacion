@@ -28,6 +28,13 @@ Cabe aclarar que esta tabla resume brevemente el contenido de cada documento, pa
   • [Funciones](https://github.com/CesarLopez-Profe/Paradigmas_de_Programacion/blob/main/Proyectos/Repaso/Funciones.cs) 
   • [Aleatorios y Formateo de Texto](https://github.com/CesarLopez-Profe/Paradigmas_de_Programacion/blob/main/Proyectos/Repaso/Random_Format.cs) 
 
+## Operador Ternario, Funciones Lambda y LINQ
+
+  • [Operador Ternario](https://github.com/CesarLopez-Profe/Paradigmas_de_Programacion/blob/main/Proyectos/Tern_Lamb_Linq/Ternario.cs)
+
+  
+  • [LINQ](https://github.com/CesarLopez-Profe/Paradigmas_de_Programacion/blob/main/Proyectos/Tern_Lamb_Linq/Linq.cs)  
+
 ## Paradigma Orientado a Objetos
 
   • [Conceptos Básicos de Clases](Slides/POO/2%20Conceptos%20Básicos%20de%20Clases.pptx)

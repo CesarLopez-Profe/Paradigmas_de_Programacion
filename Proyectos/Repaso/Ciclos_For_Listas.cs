@@ -35,7 +35,7 @@ for (int i = 1; i <= 10; i++)
 
 Console.WriteLine("El resultado es: \n" + resultado);
 
-//Listas
+//Listas: colecciones enumerables de elementos que pueden crecer o decrecer
 
 List<string> l_automoviles = new List<string>();
 
@@ -43,7 +43,7 @@ List<string> l_automoviles = new List<string>();
 l_automoviles.Add("Porshe");
 l_automoviles.Add("Maserati");
 
-//Para recorrer una lista se puede con un for o con foreach, vamos a usar foreach
+//Para recorrer una lista se puede con un for o con foreach, mejor usar foreach
 
 foreach(string elemento in l_automoviles)
 {
