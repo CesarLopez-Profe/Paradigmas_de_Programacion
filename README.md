@@ -33,7 +33,9 @@ Cabe aclarar que esta tabla resume brevemente el contenido de cada documento, pa
   • [Operador Ternario](https://github.com/CesarLopez-Profe/Paradigmas_de_Programacion/blob/main/Proyectos/Tern_Lamb_Linq/Ternario.cs)
 
   
-  • [LINQ](https://github.com/CesarLopez-Profe/Paradigmas_de_Programacion/blob/main/Proyectos/Tern_Lamb_Linq/Linq.cs)  
+  • [LINQ](https://github.com/CesarLopez-Profe/Paradigmas_de_Programacion/blob/main/Proyectos/Tern_Lamb_Linq/Linq.cs) 
+
+  • [Proyecto Supermercado para Rescribir](https://github.com/CesarLopez-Profe/Paradigmas_de_Programacion/blob/main/Proyectos/p_puntos_superm.zip) 
 
 ## Paradigma Orientado a Objetos
 
