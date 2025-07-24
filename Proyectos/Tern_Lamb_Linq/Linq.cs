@@ -42,7 +42,7 @@ var promedioFinanzas = empleados.Where(e => e.Departamento == "Finanzas")
 
 //Ejemplo linq con diccionario
 Dictionary<int, (string Nombre, string Cargo, string Departamento, decimal Salario)> empleadosDict =
-    empleados.ToDictionary(e => e.ID, e => (e.Nombre, e.Cargo, e.Departamento, e.Salario));
+    empleados.ToDictionary(e => e.ID, e => (e.Nombre, e.Cargo, e.Departamento, e.Salario)); //Conversión de lista a diccionario
 
 //Filtra los de un departamento con un salario específico
 var empleadosTI = empleadosDict.Values.Where(e => e.Departamento == "TI" && e.Salario > 5000);
