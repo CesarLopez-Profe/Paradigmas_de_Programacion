@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("p_puntos_superm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f73844569d625e35780c74cb952841c2c270c56")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f31074f97b4f1b0a69c5d80bd1190e10ef968573")]
 [assembly: System.Reflection.AssemblyProductAttribute("p_puntos_superm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("p_puntos_superm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
