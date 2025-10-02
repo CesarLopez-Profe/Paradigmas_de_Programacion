@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\B09S116est\\source\\repos\\p_multiplexquiz2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C3D70D-45D9-4A6B-BB67-92FE0721A087}|p_multiplexquiz2\\p_multiplexquiz2.csproj|c:\\users\\b09s116est\\source\\repos\\p_multiplexquiz2\\p_multiplexquiz2\\clases\\taquilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C3D70D-45D9-4A6B-BB67-92FE0721A087}|p_multiplexquiz2\\p_multiplexquiz2.csproj|solutionrelative:p_multiplexquiz2\\clases\\taquilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C3D70D-45D9-4A6B-BB67-92FE0721A087}|p_multiplexquiz2\\p_multiplexquiz2.csproj|c:\\users\\b09s116est\\source\\repos\\p_multiplexquiz2\\p_multiplexquiz2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C3D70D-45D9-4A6B-BB67-92FE0721A087}|p_multiplexquiz2\\p_multiplexquiz2.csproj|solutionrelative:p_multiplexquiz2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C3D70D-45D9-4A6B-BB67-92FE0721A087}|p_multiplexquiz2\\p_multiplexquiz2.csproj|c:\\users\\b09s116est\\source\\repos\\p_multiplexquiz2\\p_multiplexquiz2\\clases\\multiplex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C3D70D-45D9-4A6B-BB67-92FE0721A087}|p_multiplexquiz2\\p_multiplexquiz2.csproj|solutionrelative:p_multiplexquiz2\\clases\\multiplex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C3D70D-45D9-4A6B-BB67-92FE0721A087}|p_multiplexquiz2\\p_multiplexquiz2.csproj|c:\\users\\b09s116est\\source\\repos\\p_multiplexquiz2\\p_multiplexquiz2\\clases\\funcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C3D70D-45D9-4A6B-BB67-92FE0721A087}|p_multiplexquiz2\\p_multiplexquiz2.csproj|solutionrelative:p_multiplexquiz2\\clases\\funcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C3D70D-45D9-4A6B-BB67-92FE0721A087}|p_multiplexquiz2\\p_multiplexquiz2.csproj|c:\\users\\b09s116est\\source\\repos\\p_multiplexquiz2\\p_multiplexquiz2\\clases\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C3D70D-45D9-4A6B-BB67-92FE0721A087}|p_multiplexquiz2\\p_multiplexquiz2.csproj|solutionrelative:p_multiplexquiz2\\clases\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C3D70D-45D9-4A6B-BB67-92FE0721A087}|p_multiplexquiz2\\p_multiplexquiz2.csproj|c:\\users\\b09s116est\\source\\repos\\p_multiplexquiz2\\p_multiplexquiz2\\clases\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C3D70D-45D9-4A6B-BB67-92FE0721A087}|p_multiplexquiz2\\p_multiplexquiz2.csproj|solutionrelative:p_multiplexquiz2\\clases\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C3D70D-45D9-4A6B-BB67-92FE0721A087}|p_multiplexquiz2\\p_multiplexquiz2.csproj|c:\\users\\b09s116est\\source\\repos\\p_multiplexquiz2\\p_multiplexquiz2\\clases\\crispeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C3D70D-45D9-4A6B-BB67-92FE0721A087}|p_multiplexquiz2\\p_multiplexquiz2.csproj|solutionrelative:p_multiplexquiz2\\clases\\crispeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C3D70D-45D9-4A6B-BB67-92FE0721A087}|p_multiplexquiz2\\p_multiplexquiz2.csproj|c:\\users\\b09s116est\\source\\repos\\p_multiplexquiz2\\p_multiplexquiz2\\clases\\gaseosa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C3D70D-45D9-4A6B-BB67-92FE0721A087}|p_multiplexquiz2\\p_multiplexquiz2.csproj|solutionrelative:p_multiplexquiz2\\clases\\gaseosa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C3D70D-45D9-4A6B-BB67-92FE0721A087}|p_multiplexquiz2\\p_multiplexquiz2.csproj|c:\\users\\b09s116est\\source\\repos\\p_multiplexquiz2\\p_multiplexquiz2\\clases\\dulceria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C3D70D-45D9-4A6B-BB67-92FE0721A087}|p_multiplexquiz2\\p_multiplexquiz2.csproj|solutionrelative:p_multiplexquiz2\\clases\\dulceria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C3D70D-45D9-4A6B-BB67-92FE0721A087}|p_multiplexquiz2\\p_multiplexquiz2.csproj|c:\\users\\b09s116est\\source\\repos\\p_multiplexquiz2\\p_multiplexquiz2\\clases\\agua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C3D70D-45D9-4A6B-BB67-92FE0721A087}|p_multiplexquiz2\\p_multiplexquiz2.csproj|solutionrelative:p_multiplexquiz2\\clases\\agua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 247,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Funcion.cs",
+              "DocumentMoniker": "C:\\Users\\B09S116est\\source\\repos\\p_multiplexquiz2\\p_multiplexquiz2\\Clases\\Funcion.cs",
+              "RelativeDocumentMoniker": "p_multiplexquiz2\\Clases\\Funcion.cs",
+              "ToolTip": "C:\\Users\\B09S116est\\source\\repos\\p_multiplexquiz2\\p_multiplexquiz2\\Clases\\Funcion.cs",
+              "RelativeToolTip": "p_multiplexquiz2\\Clases\\Funcion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T15:33:13.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sala.cs",
+              "DocumentMoniker": "C:\\Users\\B09S116est\\source\\repos\\p_multiplexquiz2\\p_multiplexquiz2\\Clases\\Sala.cs",
+              "RelativeDocumentMoniker": "p_multiplexquiz2\\Clases\\Sala.cs",
+              "ToolTip": "C:\\Users\\B09S116est\\source\\repos\\p_multiplexquiz2\\p_multiplexquiz2\\Clases\\Sala.cs",
+              "RelativeToolTip": "p_multiplexquiz2\\Clases\\Sala.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T15:19:28.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Taquilla.cs",
+              "DocumentMoniker": "C:\\Users\\B09S116est\\source\\repos\\p_multiplexquiz2\\p_multiplexquiz2\\Clases\\Taquilla.cs",
+              "RelativeDocumentMoniker": "p_multiplexquiz2\\Clases\\Taquilla.cs",
+              "ToolTip": "C:\\Users\\B09S116est\\source\\repos\\p_multiplexquiz2\\p_multiplexquiz2\\Clases\\Taquilla.cs",
+              "RelativeToolTip": "p_multiplexquiz2\\Clases\\Taquilla.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T15:16:33.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Crispeta.cs",
+              "DocumentMoniker": "C:\\Users\\B09S116est\\source\\repos\\p_multiplexquiz2\\p_multiplexquiz2\\Clases\\Crispeta.cs",
+              "RelativeDocumentMoniker": "p_multiplexquiz2\\Clases\\Crispeta.cs",
+              "ToolTip": "C:\\Users\\B09S116est\\source\\repos\\p_multiplexquiz2\\p_multiplexquiz2\\Clases\\Crispeta.cs",
+              "RelativeToolTip": "p_multiplexquiz2\\Clases\\Crispeta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T19:34:33.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dulceria.cs",
+              "DocumentMoniker": "C:\\Users\\B09S116est\\source\\repos\\p_multiplexquiz2\\p_multiplexquiz2\\Clases\\Dulceria.cs",
+              "RelativeDocumentMoniker": "p_multiplexquiz2\\Clases\\Dulceria.cs",
+              "ToolTip": "C:\\Users\\B09S116est\\source\\repos\\p_multiplexquiz2\\p_multiplexquiz2\\Clases\\Dulceria.cs",
+              "RelativeToolTip": "p_multiplexquiz2\\Clases\\Dulceria.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T19:22:53.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Gaseosa.cs",
+              "DocumentMoniker": "C:\\Users\\B09S116est\\source\\repos\\p_multiplexquiz2\\p_multiplexquiz2\\Clases\\Gaseosa.cs",
+              "RelativeDocumentMoniker": "p_multiplexquiz2\\Clases\\Gaseosa.cs",
+              "ToolTip": "C:\\Users\\B09S116est\\source\\repos\\p_multiplexquiz2\\p_multiplexquiz2\\Clases\\Gaseosa.cs",
+              "RelativeToolTip": "p_multiplexquiz2\\Clases\\Gaseosa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T19:22:32.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Agua.cs",
+              "DocumentMoniker": "C:\\Users\\B09S116est\\source\\repos\\p_multiplexquiz2\\p_multiplexquiz2\\Clases\\Agua.cs",
+              "RelativeDocumentMoniker": "p_multiplexquiz2\\Clases\\Agua.cs",
+              "ToolTip": "C:\\Users\\B09S116est\\source\\repos\\p_multiplexquiz2\\p_multiplexquiz2\\Clases\\Agua.cs",
+              "RelativeToolTip": "p_multiplexquiz2\\Clases\\Agua.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T19:22:20.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\B09S116est\\source\\repos\\p_multiplexquiz2\\p_multiplexquiz2\\Clases\\Producto.cs",
+              "RelativeDocumentMoniker": "p_multiplexquiz2\\Clases\\Producto.cs",
+              "ToolTip": "C:\\Users\\B09S116est\\source\\repos\\p_multiplexquiz2\\p_multiplexquiz2\\Clases\\Producto.cs",
+              "RelativeToolTip": "p_multiplexquiz2\\Clases\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T19:22:00.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Multiplex.cs",
+              "DocumentMoniker": "C:\\Users\\B09S116est\\source\\repos\\p_multiplexquiz2\\p_multiplexquiz2\\Clases\\Multiplex.cs",
+              "RelativeDocumentMoniker": "p_multiplexquiz2\\Clases\\Multiplex.cs",
+              "ToolTip": "C:\\Users\\B09S116est\\source\\repos\\p_multiplexquiz2\\p_multiplexquiz2\\Clases\\Multiplex.cs",
+              "RelativeToolTip": "p_multiplexquiz2\\Clases\\Multiplex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T19:21:40.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\B09S116est\\source\\repos\\p_multiplexquiz2\\p_multiplexquiz2\\Program.cs",
+              "RelativeDocumentMoniker": "p_multiplexquiz2\\Program.cs",
+              "ToolTip": "C:\\Users\\B09S116est\\source\\repos\\p_multiplexquiz2\\p_multiplexquiz2\\Program.cs",
+              "RelativeToolTip": "p_multiplexquiz2\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T19:19:13.099Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

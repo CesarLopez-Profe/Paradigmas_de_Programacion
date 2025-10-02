@@ -1,0 +1,14 @@
+C:\Users\B09S116est\source\repos\p_multiplexquiz2\p_multiplexquiz2\bin\Debug\net8.0\p_multiplexquiz2.exe
+C:\Users\B09S116est\source\repos\p_multiplexquiz2\p_multiplexquiz2\bin\Debug\net8.0\p_multiplexquiz2.deps.json
+C:\Users\B09S116est\source\repos\p_multiplexquiz2\p_multiplexquiz2\bin\Debug\net8.0\p_multiplexquiz2.runtimeconfig.json
+C:\Users\B09S116est\source\repos\p_multiplexquiz2\p_multiplexquiz2\bin\Debug\net8.0\p_multiplexquiz2.dll
+C:\Users\B09S116est\source\repos\p_multiplexquiz2\p_multiplexquiz2\bin\Debug\net8.0\p_multiplexquiz2.pdb
+C:\Users\B09S116est\source\repos\p_multiplexquiz2\p_multiplexquiz2\obj\Debug\net8.0\p_multiplexquiz2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S116est\source\repos\p_multiplexquiz2\p_multiplexquiz2\obj\Debug\net8.0\p_multiplexquiz2.AssemblyInfoInputs.cache
+C:\Users\B09S116est\source\repos\p_multiplexquiz2\p_multiplexquiz2\obj\Debug\net8.0\p_multiplexquiz2.AssemblyInfo.cs
+C:\Users\B09S116est\source\repos\p_multiplexquiz2\p_multiplexquiz2\obj\Debug\net8.0\p_multiplexquiz2.csproj.CoreCompileInputs.cache
+C:\Users\B09S116est\source\repos\p_multiplexquiz2\p_multiplexquiz2\obj\Debug\net8.0\p_multiplexquiz2.dll
+C:\Users\B09S116est\source\repos\p_multiplexquiz2\p_multiplexquiz2\obj\Debug\net8.0\refint\p_multiplexquiz2.dll
+C:\Users\B09S116est\source\repos\p_multiplexquiz2\p_multiplexquiz2\obj\Debug\net8.0\p_multiplexquiz2.pdb
+C:\Users\B09S116est\source\repos\p_multiplexquiz2\p_multiplexquiz2\obj\Debug\net8.0\p_multiplexquiz2.genruntimeconfig.cache
+C:\Users\B09S116est\source\repos\p_multiplexquiz2\p_multiplexquiz2\obj\Debug\net8.0\ref\p_multiplexquiz2.dll
